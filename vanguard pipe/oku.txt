@@ -1,0 +1,10 @@
+1- pipemethod.exe'yi yönetici olarak başlatın.
+2- pipe created. Waiting for connections... yazısını gördükten sonra valorantı başlatın.
+3- oyun açılacaktır fakat eşleştirmeye giremezsiniz ve val5 hatası alırsınız.
+4- val5 hatasını gidermek için 2 farklı yöntemimiz var
+  
+
+1.Yöntem: siz değil bir başka arkadaşınız eşleştirmeyi başlatsın.
+2.Yöntem: Perm Spoofer kullanarak val5 banı kaldırma
+
+not: 2. yöntemi denemedim
